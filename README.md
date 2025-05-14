@@ -34,8 +34,8 @@
 </head>
 <body>
 <font size="40"> 
-<marquee> BLOQUE 3: PROYECTOS TECNOLÓGICOS
-<p> Hernández Carmona Osmar Yahir y Huerta Barona Sergio </marquee>
+ BLOQUE 3: PROYECTOS TECNOLÓGICOS
+<p> Hernández Carmona Osmar Yahir y Huerta Barona Sergio 
 </font>
 </body>
 
