@@ -24,13 +24,17 @@
             margin: 10px 0;
         }
     </style>
-<nav>
-    <a href="#home">Diseño de soluciones innovadoras</a>
-    <a href="#about">Construcción de proyectos tecnológicos</a>
-    <a href="#services">Validar las soluciones propuestas</a>
-    <a href="#contact">Presentación de proyectos tecnológicos</a>
-    <a href="#faq">Referencias 🚬</a>
-</nav>
+</head>
+<body>
+
+    <nav>
+        <a href="#home">Diseño de soluciones innovadoras</a>
+        <a href="#about">Construcción de proyectos tecnológicos</a>
+        <a href="#services">Validar las soluciones propuestas</a>
+        <a href="#contact">Presentación de proyectos tecnológicos</a>
+        <a href="#faq">Referencias 🚬</a>
+    </nav>
+
 
 </head>
 <body>
